@@ -14,9 +14,6 @@ I have also seen and experienced the not so good impact this could have on teams
 <p align="left">
   I am now focused on building products and teams, the human and customer centric way, and in the meantime, I have resumed coding as a hobby, mainly because of productivity gains offered by ai tools, and also because it enables me to be creative on multiple aspects.
 </p>
-<p align="left">
-  I am now focused on building products and teams, the human and customer centric way, and in the meantime, I have resumed coding as a hobby, mainly because of productivity gains offered by ai tools, and also because it enables me to be creative on multiple aspects.
-</p>
 
 ---
 
