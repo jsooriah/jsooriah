@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Joel, I am a Product and Tech Guy</h1>
 
 <p align="center">
-  <strong>Engineer • Head Product</strong>
+  <strong>Engineer • Head of Product</strong>
 </p>
 
 <p align="center">
