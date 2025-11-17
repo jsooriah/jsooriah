@@ -7,31 +7,14 @@
 </p>
 
 <p align="left">
-  I have been engineering mobile apps for almost a decade - I have stopped coding to transition to Product Management because I have realised to what extent organizations were too much focused on building feature factories rather than focusing on product discovery and identifying real business opportunities. 
-<p align="left">
-I have also seen and experienced the not so good impact this could have on teams !:)  
+  I have been engineering mobile apps for almost a decade - I have stopped coding to transition to Product Management when I realised to what extent organizations were too much focused on building feature factories rather than focusing on product discovery and identifying real business opportunities. I wanted to fix this problem ! 
 </p>
 <p align="left">
-  I am now focused on building products and teams, the human and customer centric way, and in the meantime, I have resumed coding as a hobby, mainly because of productivity gains offered by ai tools, and also because it enables me to be creative on multiple aspects.
+  I am now focused on building products and teams, with a focus on human and customer centric approaches.
 </p>
-
----
-
-## What I do
-
-I like to:
-
-- 
-
-
-## How I think 
-
-
----
-
-## Current products & projects
-
-
+<p align="left">
+  I also have a lot of interest in agent memory - In my spare time I vibe code a project called BlogOS. BlogOS enables me to manage all articles that I want to write on myh blog - I vide coded an AI Assistant that helps me in this endeavour !:) 
+</p>
 
 ---
 
