@@ -13,7 +13,7 @@
   I am now focused on building products and teams, with a focus on human and customer centric approaches.
 </p>
 <p align="left">
-  I also have a lot of interest in agent memory - In my spare time I vibe code a project called BlogOS. BlogOS enables me to manage all articles that I want to write on myh blog - I vide coded an AI Assistant that helps me in this endeavour !:) 
+  I also have a lot of interest in agent memory - In my spare time I vibe code a project called BlogOS. BlogOS enables me to manage all articles that I want to write on my blog - I vibe coded an AI Assistant that helps me in this endeavour !:) 
 </p>
 
 ---
