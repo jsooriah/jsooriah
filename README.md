@@ -20,9 +20,7 @@
 
 ## ✍️ Happy Apps
 
-I write **Happy Apps** for people interested in building products and teams in a human centered way:
-
-- 
+I write **Happy Apps** to share my thoughts on human centered approach to building products and teams - I also share on the blog my experience building AI tools;
 
 👉 Read here: **https://jsooriah.github.io/happyapps/**
 
