@@ -7,13 +7,13 @@
 </p>
 
 <p align="left">
-  I have been engineering mobile apps for almost a decade - I have stopped coding to transition to Product Management when I realised to what extent organizations were too much focused on building feature factories rather than focusing on product discovery and identifying real business opportunities. I wanted to fix this problem ! 
+  I have been engineering mobile apps for almost a decade - I transitioned to Product Management when I realised to what extent organizations were too much focused on building feature factories rather than focusing on product discovery and identifying real business opportunities. I wanted to fix this problem ! 
 </p>
 <p align="left">
   I am now focused on building products and teams, with a focus on human and customer centric approaches.
 </p>
 <p align="left">
-  I also have a lot of interest in agent memory - In my spare time I vibe code a project called BlogOS. BlogOS enables me to manage all articles that I want to write on my blog - I vibe coded an AI Assistant that helps me in this endeavour !:) 
+  I also have a lot of interest in agent memory - In my spare time I vibe code a personal project called BlogOS. BlogOS enables me to manage all articles that I want to write on my blog - I vibe coded an AI Assistant that helps me in this endeavour !:) 
 </p>
 
 ---
