@@ -10,10 +10,10 @@
   I have been engineering mobile apps for almost a decade - I transitioned to Product Management when I realised to what extent organizations were too much focused on building feature factories rather than focusing on product discovery and identifying real business opportunities. I wanted to fix this problem ! 
 </p>
 <p align="left">
-  I am now focused on building human and customer centric products and teams.
+  I am now focused on building human and customer centric products and teams, while building and consolidating my ai engineering capabilities.
 </p>
 <p align="left">
-  I also have a lot of interest in agent memory - In my spare time I vibe code a personal project called BlogOS. BlogOS enables me to manage all articles that I want to write on my blog - I vibe coded an AI Assistant that helps me in this endeavour !:)
+  In my spare time I vibe code a personal project called BlogOS. BlogOS enables me to manage all articles that I want to write on my blog - I vibe coded an AI Assistant that helps me in this endeavour !:)
   Moving forward I am adding a memory layer to my agent ! 
 </p>
 
