@@ -13,8 +13,7 @@
   I am now focused on building human and customer centric products and teams, while building and consolidating my ai engineering capabilities.
 </p>
 <p align="left">
-  In my spare time I vibe code a personal project called BlogOS. BlogOS enables me to manage all articles that I want to write on my blog - I vibe coded an AI Assistant that helps me in this endeavour !:)
-  Moving forward I am adding a memory layer to my agent ! 
+  In my spare time I vibe code a personal project called BlogOS. BlogOS enables me to manage all articles that I want to write on my blog.
 </p>
 
 ---
